@@ -1,0 +1,20 @@
+files/avi
+	e.avi
+	f.avi
+
+files/jpg
+	a.jpg
+	b.jpg
+	xxx.jpg
+
+files/png
+	g.png
+	h.png
+
+files/txt
+	c.txt
+	cc.txt
+	d.txt
+	x.txt
+
+
